@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sid-gupta-007
 - 👀 I’m interested in developments
 - 🌱 I’m currently learning python
-- 🌱 I’m currently learning C also.
+- 🌱 I’m currently learning C, C++ also
 <!--- 💞️ I’m looking to collaborate on ...
  📫 How to reach me ...--->
 
