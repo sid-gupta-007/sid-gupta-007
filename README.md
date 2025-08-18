@@ -7,9 +7,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sid-gupta-007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+
 
 <h3 align="center">A tech enthusiast exploring Python, C, C++, and MERN Stack | Passionate about building and problem-solving</h3>
 
