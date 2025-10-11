@@ -45,17 +45,6 @@
 
 ---
 
-
-
-### 📈 GitHub Activity  
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/36BCF7/sid-gupta-007" alt="Siddharth Gupta's GitHub Contribution Graph" />
-</p>
-
----
-
-
 ### 🏆 LeetCode Stats  
 <p align="center">
   <a href="https://leetcode.com/Siddharth_Gupta29/">
