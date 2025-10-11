@@ -50,11 +50,7 @@
 ### 📈 GitHub Activity  
 
 <p align="center">
-  <img src="https://github.com/sid-gupta-007/sid-gupta-007/blob/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sid-gupta-007/sid-gupta-007/main/profile-contribution-grid.png" alt="GitHub Contribution Grid" />
+  <img src="https://ghchart.rshah.org/36BCF7/sid-gupta-007" alt="Siddharth Gupta's GitHub Contribution Graph" />
 </p>
 
 ---
