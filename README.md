@@ -45,12 +45,20 @@
 
 ---
 
+
+
 ### 📈 GitHub Activity  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid-gupta-007&bg_color=0d1117&color=36BCF7&line=00bfff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github.com/sid-gupta-007/sid-gupta-007/blob/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sid-gupta-007/sid-gupta-007/main/profile-contribution-grid.png" alt="GitHub Contribution Grid" />
 </p>
 
 ---
+
 
 ### 🏆 LeetCode Stats  
 <p align="center">
