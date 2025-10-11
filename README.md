@@ -7,7 +7,6 @@
   </a>
 </p>
 
-
 <h3 align="center">A tech enthusiast exploring Python, C, C++, and MERN Stack | Passionate about building and problem-solving</h3>
 
 ---
@@ -41,19 +40,14 @@
 ### 📂 Featured Projects  
 - 🕒 [**Timer Web App**](https://github.com/sid-gupta-007/timer-web-app) – A countdown timer with notifications  
 - 🧮 [**Calculator App**](https://github.com/sid-gupta-007/calculator-app) – A functional calculator built using JS  
-- 🤖 [**Face Recognition**](https://github.com/sid-gupta-007/Face_recognition) – Python project for detecting faces
-- [**Real-time-Tracker**](https://github.com/sid-gupta-007/Real-time-tracker) - Backend project for real time tracking using NodeJs & ExpressJs
+- 🤖 [**Face Recognition**](https://github.com/sid-gupta-007/Face_recognition) – Python project for detecting faces  
+- 🛰 [**Real-time Tracker**](https://github.com/sid-gupta-007/Real-time-tracker) – Backend project for real-time tracking using Node.js & Express.js  
 
 ---
 
-### 📊 GitHub Stats  
+### 📈 GitHub Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid-gupta-007&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sid-gupta-007&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid-gupta-007&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid-gupta-007&bg_color=0d1117&color=36BCF7&line=00bfff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
