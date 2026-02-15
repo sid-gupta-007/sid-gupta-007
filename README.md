@@ -11,12 +11,6 @@
 
 ---
 
-### 👨‍💻 About Me  
-- 🔭 Currently working on **small web & Python projects**  
-- 🌱 Learning **Python, C, C++, and MERN Stack**  
-- 💡 Interested in **building apps that solve real-world problems**  
-
----
 
 ### 🛠 Tech Stack  
 <p align="center">
@@ -37,13 +31,6 @@
 
 ---
 
-### 📂 Featured Projects  
-- 🕒 [**Timer Web App**](https://github.com/sid-gupta-007/timer-web-app) – A countdown timer with notifications  
-- 🧮 [**Calculator App**](https://github.com/sid-gupta-007/calculator-app) – A functional calculator built using JS  
-- 🤖 [**Face Recognition**](https://github.com/sid-gupta-007/Face_recognition) – Python project for detecting faces  
-- 🛰 [**Real-time Tracker**](https://github.com/sid-gupta-007/Real-time-tracker) – Backend project for real-time tracking using Node.js & Express.js  
-
----
 
 ### 🏆 LeetCode Stats  
 <p align="center">
