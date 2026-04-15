@@ -31,6 +31,16 @@
 
 ---
 
+## 💼 Experience  
+
+### 🚀 AR/VR Developer Intern — Luxid Tech  
+- Working on **AR/VR and immersive web technologies**  
+- Exploring **WebGL and real-time rendering systems**  
+- Building interactive experiences using modern web technologies  
+- Gaining hands-on experience in **immersive system development**
+
+---
+
 ## 🧠 Projects
 
 ### ⚡ Gravity  
@@ -38,15 +48,12 @@
 - Strengthened understanding of **application flow & modular coding**  
 - Hands-on experience with real-world development practices  
 
-
 ---
 
 ### 🚪 Porte  
 - Full-stack project applying **frontend + backend integration**  
 - Focused on **clean UI and efficient logic handling**  
 - Improved practical understanding of MERN workflow  
-
-
 
 ---
 
