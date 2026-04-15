@@ -23,14 +23,13 @@
 
 ---
 
-## 🧠 Projects
+## 🧠 Current Projects
 
 ### ⚡ Gravity  
 - Focused on building a structured and scalable application  
 - Worked on core logic, UI, and functionality  
 - Strengthened understanding of real-world development workflow  
 
-🔗 *Add your repo link here*
 
 ---
 
@@ -39,7 +38,7 @@
 - Worked on frontend + backend integration  
 - Focused on improving code structure and usability  
 
-🔗 *Add your repo link here*
+
 
 ---
 
