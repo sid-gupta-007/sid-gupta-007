@@ -81,7 +81,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,js,py,c" />
 
 ### 🌐 Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb,express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
 
 </div>
 
@@ -91,8 +91,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODED-DIGNITY/CODED-DIGNITY/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/CODED-DIGNITY/CODED-DIGNITY/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sid-gupta-007/sid-gupta-007/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/sid-gupta-007/sid-gupta-007/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
