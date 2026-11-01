@@ -86,15 +86,25 @@
 </div>
 
 ---
-
+<!--
 ## 🐍 Contribution Snake  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sid-gupta-007/sid-gupta-007/output/github-contribution-grid-snake-dark.svg">
+ <img src="https://raw.githubusercontent.com/sid-gupta-007/sid-gupta-007/output/github-contribution-grid-snake-dark.svg">
 </div>
-
+-->
 ---
 
+
+## 🐟 chilling...
+
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi"/>
+  <p><i>A little fish.</i></p>
+</div>
+
+
+---
 ## 📊 GitHub Stats  
 
 <p align="center">
